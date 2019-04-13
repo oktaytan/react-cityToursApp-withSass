@@ -1,0 +1,11 @@
+@import '../../index.scss';
+
+.home {
+  margin-top: 6rem !important;
+  text-align: center;
+
+  h1 {
+    font-size: 2rem;
+    color: $mainOrange;
+  }
+}

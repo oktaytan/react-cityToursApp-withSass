@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$mainBlack: rgb(61, 61, 61);
+$mainOrange: #db451f;
+$mainWhite: #fff;
+$mainGrey: #ececec;
+
+body {
+  background-color: $mainWhite;
+  color: $mainBlack;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+  width: 80vw;
+  margin: 0 auto;
+}
